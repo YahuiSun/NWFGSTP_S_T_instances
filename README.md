@@ -4,4 +4,4 @@ This is for the paper: Yahui Sun, and Saman Halgamuge. "Minimum-cost heterogeneo
 
 This includes the algorithm and the datasets.
 
-For any question, please contact Yahui Sun yahui.sun@anu.edu.au
+For any question, please contact Yahui Sun yahuisun@outlook.com
